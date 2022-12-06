@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-image: url(/res/bg.gif);
+  background-image: url(res/bg.gif);
   background-attachment: fixed;
   background-position: center;
   -webkit-background-size: cover;
@@ -775,12 +775,12 @@ a {
 
 @font-face {
   font-family: Fugaz;
-  src: url(/res/FugazOne-Regular.ttf);
+  src: url(res/FugazOne-Regular.ttf);
 }
 
 @font-face {
   font-family: Rajdhani;
-  src: url(/res/Rajdhani-Regular.ttf);
+  src: url(res/Rajdhani-Regular.ttf);
 }
 
 @media (min-width: 320px) and (max-width: 760px) {
