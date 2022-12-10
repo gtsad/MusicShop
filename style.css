@@ -233,6 +233,11 @@ Three subcategories using 1fr 1fr 1fr */
   text-align: center;
 }
 
+
+.cat_container:hover{
+  cursor: pointer;
+}
+
 /*On hover animation using transform:scale()*/
 .cat_images > div:hover {
   transform: scale(1.1);
